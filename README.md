@@ -30,5 +30,4 @@ The model is evaluated on the Mean Absolute Error (MAE) and Mean Squared Error (
 ## Acknowledgments
 
 - This project is based on a challenge of freecodecamp Machine Learning with Python course to predict healthcare costs using regression.
-- Dataset source: [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
 
